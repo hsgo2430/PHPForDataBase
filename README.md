@@ -1,1 +1,1 @@
-# PHPForDataBase
+# 안드로이드와 MySQL을 연결해주는 php 파일의 모음입니다.
